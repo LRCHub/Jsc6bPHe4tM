@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "LEveL（feat. TOMORROW X TOGETHER）",
+  "base_artist": "SawanoHiroyuki[nZk]",
+  "createdAt": "2026-02-12T02:28:10.721489Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LEveL (feat. TOMORROW X TOGETHER)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/01_LEveL_(feat._TOMORROW_X_TOGETHER)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LEveL (feat. TOMORROW X TOGETHER)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/02_LEveL_(feat._TOMORROW_X_TOGETHER)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LEveL (feat. TOMORROW X TOGETHER)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/03_LEveL_(feat._TOMORROW_X_TOGETHER)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "LEveL (feat. TOMORROW X TOGETHER)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/04_LEveL_(feat._TOMORROW_X_TOGETHER)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LEveL (feat. TOMORROW X TOGETHER)",
+      "artist": "Sawano Hiroyuki",
+      "has_synced": true,
+      "path": "select/05_LEveL_(feat._TOMORROW_X_TOGETHER)_Sawano_Hiroyuki.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "LEveL (feat. TOMORROW X TOGETHER)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/06_LEveL_(feat._TOMORROW_X_TOGETHER)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LEveL (feat.TOMORROW X TOGETHER)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/07_LEveL_(feat.TOMORROW_X_TOGETHER)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "New Level (feat. Future)",
+      "artist": "A$AP Ferg",
+      "has_synced": true,
+      "path": "select/08_New_Level_(feat._Future)_A$AP_Ferg.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "On My Level (feat. Too Short)",
+      "artist": "Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/09_On_My_Level_(feat._Too_Short)_Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Level (feat. John Roberts)",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/10_Love_Level_(feat._John_Roberts)_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Another Level (feat. Jamey Jasta)",
+      "artist": "Body Count",
+      "has_synced": true,
+      "path": "select/11_Another_Level_(feat._Jamey_Jasta)_Body_Count.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "New Level (feat. Josman)",
+      "artist": "Lefa feat. Josman",
+      "has_synced": true,
+      "path": "select/12_New_Level_(feat._Josman)_Lefa_feat._Josman.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "New Level (feat. Josman)",
+      "artist": "Lefa",
+      "has_synced": true,
+      "path": "select/13_New_Level_(feat._Josman)_Lefa.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Another Level (feat. Lovespeake)",
+      "artist": "Timmy Trumpet feat. Lovespeake",
+      "has_synced": true,
+      "path": "select/14_Another_Level_(feat._Lovespeake)_Timmy_Trumpet_feat._Lovespeake.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "New Level (feat. Future)",
+      "artist": "A$AP Ferg/Future",
+      "has_synced": true,
+      "path": "select/15_New_Level_(feat._Future)_A$AP_Ferg_Future.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "On My Level (feat. Too $hort)",
+      "artist": "Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/16_On_My_Level_(feat._Too_$hort)_Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Next Level (Feat. Busta Rhymes)",
+      "artist": "Mary J. Blige",
+      "has_synced": true,
+      "path": "select/17_Next_Level_(Feat._Busta_Rhymes)_Mary_J._Blige.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Next Level (feat. Wynter Gordon)",
+      "artist": "Rohff - Wynter Gordon",
+      "has_synced": false,
+      "path": "select/18_Next_Level_(feat._Wynter_Gordon)_Rohff_-_Wynter_Gordon.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Level (feat. Lil Bre & Byron Juane)",
+      "artist": "Derek Minor feat. Lil Bre",
+      "has_synced": true,
+      "path": "select/19_Level_(feat._Lil_Bre_&_Byron_Juane)_Derek_Minor_feat._Lil_Bre.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Level (feat. Lil Bre & Byron Juane)",
+      "artist": "Derek Minor",
+      "has_synced": true,
+      "path": "select/20_Level_(feat._Lil_Bre_&_Byron_Juane)_Derek_Minor.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "High Level (feat. Iggy Azalea)",
+      "artist": "Skeme",
+      "has_synced": true,
+      "path": "select/21_High_Level_(feat._Iggy_Azalea)_Skeme.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Lower Level (feat. Kodak Black)",
+      "artist": "Moneybagg Yo",
+      "has_synced": true,
+      "path": "select/22_Lower_Level_(feat._Kodak_Black)_Moneybagg_Yo.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "On My Level (feat. Too $hort)",
+      "artist": "Wiz Khalifa; Too $hort",
+      "has_synced": true,
+      "path": "select/23_On_My_Level_(feat._Too_$hort)_Wiz_Khalifa;_Too_$hort.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "On My Level feat. Too $hort",
+      "artist": "Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/24_On_My_Level_feat._Too_$hort_Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LEveL",
+      "artist": "SawanoHiroyuki[nZk], TOMORROW X TOGETHER",
+      "has_synced": false,
+      "path": "select/pl_01_LEveL_SawanoHiroyuki[nZk],_TOMORROW_X_TOGETHER.txt"
+    }
+  ]
+}
